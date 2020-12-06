@@ -1,0 +1,29 @@
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: brown;
+}
+ 
+.kotak{
+    width: 100px;
+    height: 100px;
+    padding: 50px;
+    margin: 20px;
+    color: #ffffff;
+    float: left;
+}
+ 
+.biru {
+    background-color: aqua;
+}
+ 
+.abutua{
+    background-color: darkslategrey;
+}
+ 
+.merahmuda {
+    background-color: deeppink;
+}
+ 
+.orange{
+    background-color: orangered ;
+}
